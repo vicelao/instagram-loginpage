@@ -11,14 +11,15 @@
 #### 🚧 Considerações adicionais para esse miniprojeto: 
 
 1. A transição animada termina quando chega na última imagem declarada no HTML;
+
 2. Tem implemetações melhores na internet, mas quis me desafiar em fazer algo 100% meu;
+
 3. Vou fazer uma página de home do Instagram, aquela que você tem acesso quando loga;
 
+   
+
+------
 
 
 
-
-[^Por enquanto é isso, obrigado por chegar até aqui. :)]: E DIO, valeu demais pelo Bootcamp!
-
-
-
+**Por enquanto é isso, muito obrigado por chegar até aqui! :)**  E DIO, obrigado pelo Bootcamp!
