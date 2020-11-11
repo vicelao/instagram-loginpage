@@ -16,5 +16,9 @@
 
 
 
-Por enquanto é isso, obrigado por chegar até aqui. :)
+
+
+[^Por enquanto é isso, obrigado por chegar até aqui. :)]: E DIO, valeu demais pelo Bootcamp!
+
+
 
